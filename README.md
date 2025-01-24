@@ -23,4 +23,4 @@ For anyone looking for RPC node access + GRPC streaming checkout our Discord ser
 
 Contact with me.
 
-[@SolVeerDave](https://t.me/vladmeer67)
+[@SolVeerDave](https://t.me/SolVeerDave)
