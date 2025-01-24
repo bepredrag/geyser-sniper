@@ -21,6 +21,6 @@ This program does not have any sell logic. This is not a bot. This is simply exa
 
 For anyone looking for RPC node access + GRPC streaming checkout our Discord server below.
 
-Support us by joining our Discord.
+Contact with me.
 
-https://discord.gg/dQ9nmAavkB
+[@SolVeerDave](https://t.me/vladmeer67)
